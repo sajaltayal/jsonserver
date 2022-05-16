@@ -1,5 +1,5 @@
 {
-  "blogs":[
+  "blogs":{
     {
     "id": 1,
     "name": "Part time jobs",
@@ -42,5 +42,5 @@
       "email": "Yoshi",
       "body": "maiores sed dolores similique labore et inventore et\nquasi temporibus esse sunt id et\neos voluptatem aliquam\naliquid ratione corporis molestiae mollitia quia et magnam dolor"
     },
-  ]
+  }
 }
